@@ -1,16 +1,12 @@
-👋 Hi, I’m @CarlosrC771
 
-👀 I’m interested in HTML, CSS, TypeScript, Angular, PHP, React
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CarlosrC771&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CarlosrC771&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosrC771&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🌱 I’m currently learning more about full-stack development and working on some personal projects
+---
+[![](https://visitcount.itsvg.in/api?id=CarlosrC771&icon=0&color=0)](https://visitcount.itsvg.in)
 
-💞️ I’m looking to collaborate on open-source web apps, UI/UX projects, or any interesting JavaScript-based challenges
-
-📫 How to reach me: carloseduradoramos6457@gmail.com
-
-⚡ Fun fact: I’m a huge fan of [something fun about you—e.g., music, hiking, or a hobby you enjoy
-
-<!---
-CarlosrC771/CarlosrC771 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
